@@ -1,7 +1,7 @@
 # GitHub Flow Instructions for GitHub Copilot
 
 ## Overview
-These instructions guide developers and agents on working with Git according to GitHub Flow, ensuring efficient, collaborative, and high-quality software development.
+These instructions guide developers and agents on working with Git according to GitHub Flow, ensuring efficient, collaborative, and high-quality software development. Tehse instructions are used whenever a developer requests Copilot to implement a GitHub Issue.
 
 ## Core Principles
 - Work in small, incremental branches
